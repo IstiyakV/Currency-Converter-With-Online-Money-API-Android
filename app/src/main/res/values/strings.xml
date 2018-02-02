@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Real Pocket</string>
+
+    <string-array name="country_arrays">
+        <item>BDT</item>
+        <item>USD</item>
+        <item>BGN</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CHF</item>
+        <item>INR</item>
+    </string-array>
+
+</resources>
